@@ -1,7 +1,7 @@
 1).
   var student={
-	firstname: "lakshman",
-	lastname: "raj",
+	firstname: "yoha",
+	lastname: "venkatesh",
     getFullName:function(){
         console.log(this.firstname + this.lastname);
     }
